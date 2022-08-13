@@ -1,1 +1,1 @@
-![snake](./assets/github-snake.svg)
+![snake](https://github.com/molvqingtai/molvqingtai/blob/snake/github-snake.svg)
