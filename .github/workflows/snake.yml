@@ -16,7 +16,7 @@ jobs:
       - name: push
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
-          target_branch: master
+          target_branch: snake
           build_dir: assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
